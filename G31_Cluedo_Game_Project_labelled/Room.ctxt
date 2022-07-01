@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Room
+comment0.text=\r\n\ The\ Room\ class\ represent\ a\ room\ on\ the\ game\ board,\ it\ is\ used\ \r\n\r\n\ @author\ Group31\r\n\ @version\ V.1\r\n
+comment1.params=name
+comment1.target=Room(java.lang.String)
+comment1.text=\r\n\ Initialises\ room\ \r\n\ @param\ name\ name\ of\ the\ room\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Returns\ the\ name\ of\ the\ room\ \r\n\ @return\ room\ name\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getPlayers()
+comment3.text=\r\n\ Returns\ list\ of\ players\ in\ a\ room\ \r\n\ @return\ players\ in\ the\ room\r\n
+comment4.params=name
+comment4.target=void\ removePlayer(java.lang.String)
+comment4.text=\r\n\ Removes\ player\ from\ a\ room\r\n\ @param\ name\ name\ of\ player\ \r\n
+comment5.params=name
+comment5.target=void\ addPlayer(java.lang.String)
+comment5.text=\r\n\ Adds\ player\ from\ a\ room\r\n\ @param\ name\ player\ name\r\n
+numComments=6

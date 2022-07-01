@@ -1,0 +1,86 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\jdk\bin\javadoc.exe
+-sourcepath
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled
+-source
+11
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-4.11.jar;C:\Program Files\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files\BlueJ\lib\lang-stride.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.base.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.controls.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.fxml.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.graphics.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.media.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.properties.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.swing.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.web.jar;C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled
+-d
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+G31_Cluedo_Game_Project_labelled
+-windowtitle
+G31_Cluedo_Game_Project_labelled
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/11/docs/api/
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled/Accusation.java
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled/CluedoGameWindowLaunch.java
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled/Level.java
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled/Person.java
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled/Room.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\Accusation.java...
+Loading source file C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java...
+Loading source file C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\Level.java...
+Loading source file C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\Person.java...
+Loading source file C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\Room.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\Accusation.html...
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\Accusation.java:21: warning - @param argument "cardsForPlayers" is not a parameter name.
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\CluedoGameWindowLaunch.html...
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:58: warning - @param argument "currentTurn" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:59: warning - @param argument "players" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:60: warning - @param argument "rooms" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:45: warning - @param argument "startGame" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:102: warning - @param argument "dice" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:120: warning - @param argument "turn" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:198: warning - @param argument "players" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:231: warning - @param argument "rooms" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:342: warning - @param argument "currentTurn" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:353: warning - @param argument "currentTurn" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:363: warning - @param argument "currentTurn" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:373: warning - @param argument "currentTurn" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:383: warning - @param argument "occupantName" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:740: warning - @param argument "giveOutClueCard" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:813: warning - @param argument "cluedoGameWindowInstance" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:834: warning - @param argument "gameCurrentPlayer" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:845: warning - @param argument "gameBoard" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:1165: warning - @param argument "cardView" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:1202: warning - @param argument "JPanel" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\CluedoGameWindowLaunch.java:1344: warning - @param argument "roomSelectionList" is not a parameter name.
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\Level.html...
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\Level.java:22: warning - @param argument "boardRowNumbers" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\Level.java:23: warning - @param argument "boardColumnNumbers" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\Level.java:501: warning - @param argument "coordinateArray" is not a parameter name.
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\Person.html...
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\Person.java:48: warning - @param argument "turn" is not a parameter name.
+C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\Person.java:126: warning - @param argument "positionX" is not a parameter name.
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\Room.html...
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\package-summary.html...
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\package-tree.html...
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\constant-values.html...
+Building index for all the packages and classes...
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\overview-tree.html...
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\index-all.html...
+Building index for all classes...
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\allclasses-index.html...
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\allpackages-index.html...
+Building index for all classes...
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\allclasses.html...
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\allclasses.html...
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\index.html...
+Generating C:\Users\rashn\Downloads\G31_Cluedo_Game_Project_labelled\doc\help-doc.html...
+26 warnings
